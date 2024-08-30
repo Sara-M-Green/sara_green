@@ -1,0 +1,52 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/cotopaxi_logo.jpg",
+      "title": "Cotopaxi",
+      "position": "Full Stack Software Engineer",
+      "description": "Developed innovative tools and features on a headless Shopify eCommerce web site and internal CMS platform.",
+      "link": "https://www.cotopaxi.com/",
+      "projects": [
+        "Contributed to the frontend development of a product bundling tool that increased T-shirt sales by over 150% in the first week of launch.",
+        "Independently developed a navigation customization tool on an internal CMS platform using Angular which replaced the Shopify navigation bar with a Vue.js component.",
+        "Created a rich and engaging user experience on the Cotopaxi blog by integrating with the Strapi CMS platform to upgrade from Shopify stories to an interactive content hub."
+      ]
+    },
+    {
+      "id": "2",
+      "src": "./img/flueid_logo.jpg",
+      "title": "Flueid",
+      "position": "Junior Software Engineer",
+      "description": "Built cutting-edge software focused on automating and modernizing archaic closing practices in the real estate industry focusing on security, scalability and customer experience",
+      "link": "https://www.flueid.com/",
+      "projects": [
+        "Used cloud technologies and database platforms to build highly-scalable, complex applications utilizing React, C# and .ASP.NET Core",
+        "Collaborated with the business and design teams to develop new and better ways to solve problems in the real estate, lending and closing-services industry."
+      ]
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "description": "Sara is an exceptional engineer / developer, value creator and beloved team member. Upon joining our engineering team, Sara rapidly dug into our ecom/backend stack and took over key feature / component development. She is a highly skilled, flexible and growth oriented software engineer. Super diligent, always reliable with a high level of solution oriented and always positive 'I-will-figure-it-out' attitude. She was highly respected by her peers. We would rehire Sara in a heart beat and any team will be lucky to have her!",
+      "author_name": "Stephan Jacob",
+      "author_designation": "Founder, Chief Technology & Global Biz Dev at Cotopaxi",
+      "author_company": "Cotopaxi"
+    },
+    {
+      "id": "1",
+      "description": "I had the pleasure of working alongside and managing Sara for 2 and a half years. In that time, I was constantly struck by her willingness to learn, how quickly she picked up new skills, and how good-natured she is. Her role in the time I worked with her morphed from a junior front-end developer to a mid-level full-stack engineer, largely because she wasn’t afraid to tackle whatever was thrown her way. Early-on it was easy to recognize that she was willing and capable and that never changed in her tenure. I never heard her say no to anything new.She wasn’t afraid to ask for or offer help. And she became our resident expert on many-a-subject. Whether it was learning a new framework, re-structuring components, or deciphering ancient code relics, Sara was a rock-star. She is kind, funny, and easy-going and has become a dear friend. I loved working with Sara. And I genuinely hope I get the chance to work with her again some day.",
+      "author_name": "Joey Vestal",
+      "author_designation": "Senior Engineering Manager at Cotopaxi",
+      "author_company": "Cotopaxi"
+    },
+    {
+      "id": "1",
+      "description": "Sara is an exceptional Full Stack Software Engineer whose curiosity and ability to tackle challenges head-first left a lasting impression on me. While collaborating with her at Cotopaxi, there truly was no task too large or too small for Sara, and she showed up every day with such positivity and joy! She brings a diverse set of skills to any project and is someone who is constantly looking to learn and refine her toolkit. I can’t say enough great things about Sara and any organization would be lucky to have her!",
+      "author_name": "Nate Stephens",
+      "author_designation": "Information Technology Project Manager at Cotopaxi",
+      "author_company": "Cotopaxi"
+    }
+  ]
+}
