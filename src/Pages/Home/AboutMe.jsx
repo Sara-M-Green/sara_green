@@ -7,13 +7,12 @@ export default function AboutMe() {
             <span className="hero--section--title--color">Howdy!</span>
           </h1>
           <p className="hero--section-description">
-            I'm Sara, a web developer specializing in JavaScript front-end
-            frameworks like Vue, Angular, and React. I love creating
-            user-friendly web tools from high-traffic eCommerce sites to
-            high-demand REST APIs. My passion for creating innovative software
-            solutions is matched only by my love for the mountains, where I
-            spend my free time skiing, mountain biking, and exploring alpine
-            peaks.
+            I’m Sara—a web developer with a knack for front-end JavaScript
+            frameworks like Vue, Angular, and React. I thrive on building
+            intuitive web tools and high-demand REST APIs, particularly in the
+            eCommerce space. When I’m not crafting innovative software
+            solutions, you’ll find me enjoying the mountains either skiing,
+            mountain biking, or exploring alpine peaks!
           </p>
         </div>
         <a
